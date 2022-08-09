@@ -1,0 +1,11 @@
+prefix=/opt/devkitpro/portlibs/ppc
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: gd
+Description: GD graphics library
+Version: 2.2.5
+Cflags: -I${includedir}
+Libs.private: -lm   -L/opt/devkitpro/portlibs/ppc/lib -lz  -L/opt/devkitpro/portlibs/ppc/lib -lpng16 -lz -lm -lz  -L/opt/devkitpro/portlibs/ppc/lib -lfreetype -lbz2 -lpng16 -lz -lm -lz   -ljpeg 
+Libs: -L${libdir} -lgd
