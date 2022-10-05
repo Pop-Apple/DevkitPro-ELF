@@ -7,7 +7,7 @@ A repository that stores the c-language files necessary for configuration
 ## how to use
 
 ### Build
-[this](https://github.com/Pop-Apple/Cpp-Vault/releases/tag/Build) file download it 🖤  
+[this](https://github.com/Pop-Apple/Cpp-Vault/releases/tag/Build) file download it  
 D&D to the directory `C:\devkitPro\portlibs\ppc`  
 Set your build environment  
 
@@ -20,7 +20,7 @@ Set your build environment
    * Build `test.elf`
 [exe](https://github.com/u08614s/create_codeelf)
 
-### Contributor 🤍
+### Contributor  
 [Pop-Apple](https://github.com/Pop-Apple)
 
 ## License 🔵
