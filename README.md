@@ -2,7 +2,7 @@
 
 Executable and Linkable Format i.e. `*.elf` files  
 A repository that stores the c-language files necessary for configuration  
-[Download](https://github.com/Pop-Apple/DevkitPro-Cpp-Vault/releases/tag/ELF) files as needed  
+[Download](https://github.com/Pop-Apple/DevkitPro-ELF/releases/tag/v1.0) files as needed  
 
 ## how to use
 
