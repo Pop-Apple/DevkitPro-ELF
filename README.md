@@ -1,4 +1,4 @@
-## Purpose 🔷
+## Purpose
 
 Executable and Linkable Format i.e. `*.elf` files  
 A repository that stores the c-language files necessary for configuration  
@@ -23,12 +23,6 @@ Set your build environment
 ### Contributor  
 [Pop-Apple](https://github.com/Pop-Apple)
 
-## Language
-
-<d align="left">
-   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-</d>
-
-## License 🔵
+## License
 
 MIT License
