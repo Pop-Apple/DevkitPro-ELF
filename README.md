@@ -25,4 +25,5 @@ Set your build environment
 
 ## License
 
-MIT License
+Release license is **unknown**.  
+This is the repository I keep for myself
